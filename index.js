@@ -10,6 +10,7 @@ const starts = [
   `En el moment que completem la restauració`,
   `Just quan instalem l'ultim "parche"`,
   `En el moment que acabem l'implementació`,
+  `Quan tinguem publicat el fix`,
 ];
 const middles = [
   `de l'interfaç XML`,
@@ -22,6 +23,7 @@ const middles = [
   `del cache`,
   `de la versió custom`,
   `del conversor del protocol`,
+  `de l'ultima versió de beyond`,
 ];
 const ends = [
   `del directori LDAP`,
@@ -34,6 +36,7 @@ const ends = [
   `de la base de dades`,
   `del servidor segur`,
   `del accelerador de transicions`,
+  `sobre l'administrador d'errors`,
 ];
 class Sentence {
   constructor() {
